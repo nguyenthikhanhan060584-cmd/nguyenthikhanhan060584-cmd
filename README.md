@@ -3,6 +3,9 @@
 
 # 💫 About Me:
 Mình là Khánh An nè !!!!<br>Chào mừng bạn đến với trang của mình nha<br>Ở đây sẽ có nhiều thứ bạn cần tìm á
+- 💡 Mình đam mê **chụp ảnh** và **quay phim**, luôn thích ghi lại những khoảnh khắc đẹp.
+- 🎬 Ngoài ra mình cũng thích **viết kịch bản**, đặc biệt là các ý tưởng ngắn mang thông điệp tích cực.
+- 🌱 Hiện mình đang học tập và phát triển kỹ năng trong lĩnh vực **Công nghệ đa phương tiện**.
 
 
 ## 🌐 Socials:
