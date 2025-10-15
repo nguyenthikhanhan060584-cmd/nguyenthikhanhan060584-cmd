@@ -1,3 +1,6 @@
+<h1 align="center">🌸 Xin chào, mình là Nguyễn Thị Khánh An 🌸</h1>
+<h3 align="center">🎓 Sinh viên ngành Công nghệ Đa phương tiện</h3>
+
 # 💫 About Me:
 Mình là Khánh An nè !!!!<br>Chào mừng bạn đến với trang của mình nha<br>Ở đây sẽ có nhiều thứ bạn cần tìm á
 
